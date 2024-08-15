@@ -162,7 +162,7 @@ th {
 .article-img {
   width: 100%;
   height: auto;
-  max-height: 200px; /* Adjust as necessary */
+  max-height: 500px; /* Adjust as necessary */
   object-fit: contain; /* Ensures the image fits within the container without distortion */
 }
 
