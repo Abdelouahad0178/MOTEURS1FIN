@@ -1,0 +1,246 @@
+[
+
+
+
+    {
+        "ref": "015",
+        "fournisseur": "F.E.K",
+        "article": "SOVERAYA LAP/RET 60X120",
+        "texture": "",
+        "dimension": "60x120",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/SOVERAYA_LAP_RETT_60X120.jpeg",
+        "stock": "1329",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+        "srcimg2": "/images/icon_m_s.png",
+        "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+
+    {
+        "ref": "81",
+        "fournisseur": "F.E.K",
+        "article": "HMLY_BLACK_60X120cm",
+        "texture": "PULIDO",
+        "dimension": "60x120",
+        "prix": "450",
+        "promotion": "450",
+        "srcImg": "/images/HMLY_BLACK_60X120.jpg",
+        "stock": "0",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+       "srcimg2": "/images/icon_m_s.png",
+    "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+      },
+
+      {
+        "ref":"013",
+        "fournisseur": "AT CERAME",
+        "article": "COOLWOOD_NATUREL_MATE 30X150",
+        "texture": "MATT",
+        "dimension": "30X150",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/COOLWOOD NATUREL MATE30X150.jpg",
+        "stock": "932",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+        "srcimg2": "/images/icon_m_s.png",
+        "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+
+
+    {
+        "ref": "714",
+        "fournisseur": "PERONDA GROUPE",
+        "article": "FONTANA_SILVER_90X90cm",
+        "texture": "",
+        "dimension": "90x90",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/FONTANA_SILVER_90X90.jpg",
+        "stock": "904",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+         "srcimg2": "/images/icon_m_s.png",
+        "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+
+    {
+        "ref":"62",
+        "fournisseur": "VITACER",
+        "article": "CREAMY_RECT-100x100-cm",
+        "texture": "",
+        "dimension": "120x120",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/cream-rect-100x100-cm.jpg",
+        "stock": "558",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Grés cérame",
+         "srcimg2": "/images/icon_m_s.png",
+        "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+
+
+    {
+        "ref": "C60",
+        "fournisseur": "AB",
+        "article": "CATHELYN WALNUT 30x90",
+        "texture": "MATT",
+        "dimension": "30x90",
+        "prix":"0",
+        "promotion": "0",
+        "srcImg": "/images/CATHLYN_WALNUT_30X90.jpg",
+        "stock": "483",
+        "srcimg1": "P Blanche",
+        "iconText1": null,
+       "srcimg2": "/images/icon_mur.png",
+        "iconText2": "Mur",
+        "srcimg3": null,
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": null
+    },
+
+    {
+        "ref": "613",
+        "fournisseur": "AB",
+        "article": "NAXOS_BLACK_PULIDO_120X120",
+        "texture": "PULIDO",
+        "dimension": "120x120",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/NAXOS120X120_NAXOS_BLACK_PULIDO.jpg",
+        "stock": "394",
+        "srcimg1": "/images/icon_pb.png",
+        "iconText1": "P Blanche",
+        "srcimg2": "/images/icon_mur.png",
+        "iconText2": "",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+
+
+    {
+        "ref": "87",
+        "fournisseur": "VITACER",
+        "article": "leonardo-white-rect-poli-60x120-cm",
+        "texture": "PULIDO",
+        "dimension": "60x120",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/leonardo-white-rect-poli-60x120-cm.png",
+        "stock": "362",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+        "srcimg2": "/images/icon_m_s.png",
+    "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+      },
+
+      {
+        "ref": "24",
+        "fournisseur": "ATCERAME",
+        "article": "PORTOFINO_MATT_60X120cm",
+        "texture": "MATT",
+        "dimension": "60x120",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/PORTOFINO_MATT_60X120cm.jpg",
+        "stock": "325",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+        "srcimg2": "/images/icon_m_s.png",
+          "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+      },
+
+
+
+      {
+        "ref": "621",
+        "fournisseur": "AB",
+        "article": "COSMOS_SAHEL_GREY_40x120cm",
+        "texture": "MATT",
+        "dimension": "40x120",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/COSMOS_SAHEL_GREY_40x120cm.jpg",
+        "stock": "286",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+        "srcimg2": "/images/icon_mur.png",
+        "iconText2": "Mur",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+
+
+
+
+    {
+        "ref": "74",
+        "fournisseur": "PERONDA GROUPE",
+        "article": "FONTANA_BLACK_90X90cm",
+        "texture": "",
+        "dimension": "90x90",
+        "prix": "",
+        "promotion": "",
+        "srcImg": "/images/FONTANA_BLACK_90X90.jpg",
+        "stock": "267",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+        "srcimg2": "/images/icon_m_s.png",
+        "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+{
+    "ref": "618",
+    "fournisseur": "ATCERAME",
+    "article": "elyseum-perl_60X120cm",
+    "texture": "PULIDO",
+    "dimension": "120x120",
+    "prix": "",
+    "promotion": "",
+    "srcImg": "/images/elyseum-perl_60X120cm.jpeg",
+    "stock": "226",
+    "srcimg1": "/images/icon_pl.png",
+    "iconText1": "Porcelain",
+    "srcimg2": "/images/icon_m_s.png",
+    "iconText2": "Mur et Sol",
+    "srcimg3": "/images/icon_rectifie.png",
+    "iconText3": "Rectifié",
+    "date_entree_fichier_json": "2024-06-05"
+}
+]

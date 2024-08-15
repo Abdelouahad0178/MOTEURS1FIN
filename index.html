@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tableau d'articles</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="manifest" href="./manifest.json">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <button onclick="topFunction()" id="scrollToTopBtn" title="Remonter en haut de la page">
+        <span class="arrow-up"></span>  
+    </button>
+    <h2>Liste des articles</h2>
+    <input type="text" id="searchInput" placeholder="Rechercher..." aria-label="Search through articles">
+    <button id="toggleViewBtn" class="excellent-button">Toggle FRS</button>
+    <table id="articlesTable">
+        <thead>
+            <tr id="tableHeader">
+                <th class="small-column">Réf</th>
+                <th class="small-column">Article</th>
+                <th class="small-column">Prix</th>
+                <th id="promotionHeader" class="small-column">Promotion</th>
+                <th>Stock</th>
+                <th class="large-column">Image</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            <!-- Le contenu du tableau sera généré dynamiquement en JavaScript -->
+        </tbody>
+    </table>
+    <!-- Popup pour afficher les détails -->
+    <div id="detailPopup" style="display:none;">
+        <div id="popupContent">
+            <button id="closePopupBtn">Fermer</button>
+            <div id="details"></div>
+            <img id="popupImage" src="" alt="Article">
+            <p id="popupDetail"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
