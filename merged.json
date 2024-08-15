@@ -263,10 +263,48 @@
     "srcimg3": "/images/icon_rectifie.png",
     "iconText3": "Rectifié",
     "date_entree_fichier_json": "2024-06-05"
+},
+
+
+
+
+{
+    "ref": "705",
+    "fournisseur": "",
+    "article": "MUSE TALIA GRIGIO CHIARO 26.6X26.6cm",
+    "texture": "",
+    "dimension": "",
+    "prix": "",
+    "promotion": "110? DHS",
+    "srcImg": "/images/26.6X26.6_MUSE_TALIA_GRIGIO_CHIARO.jpg",
+    "stock": "300 m²",
+    "srcimg1": "/images/icon_pl.png",
+    "iconText1": "Porcelain",
+    "srcimg2": "/images/icon_m_s.png",
+    "iconText2": "Mur et Sol",
+    "srcimg3": "/images/icon_rectifie.png",
+    "iconText3": "Rectifié",
+    "date_entree_fichier_json": "2024-06-05"
+},
+
+{
+    "ref": "700",
+    "fournisseur": "",
+    "article": "MUSE CLIO GRIGIO SCURO 26.6X26.6cm",
+    "texture": "",
+    "dimension": "",
+    "prix": "",
+    "promotion": "110? DHS",
+    "srcImg": "/images/26.6X26.6_MUSE_GRIGIO_SCURO.jpg",
+    "stock": "384 m²",
+    "srcimg1": "/images/icon_pl.png",
+    "iconText1": "Porcelain",
+    "srcimg2": "/images/icon_m_s.png",
+    "iconText2": "Mur et Sol",
+    "srcimg3": "/images/icon_rectifie.png",
+    "iconText3": "Rectifié",
+    "date_entree_fichier_json": "2024-06-05"
 }
-
-
-
 
 
 
