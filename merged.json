@@ -243,4 +243,37 @@
     "iconText3": "Rectifié",
     "date_entree_fichier_json": "2024-06-05"
 }
+
+,
+
+{
+    "ref": "600",
+    "fournisseur": "AZULEJOSESPAGNOL",
+    "article": "BONN CREMA STD 31.6X90.5cm",
+    "texture": "",
+    "dimension": "31.6X90.5",
+    "prix": "",
+    "promotion": "110",
+    "srcImg": "/images/BONN_CREMA_STD_31.6X90.50.jpg",
+    "stock": "402",
+    "srcimg1": "/images/icon_pl.png",
+    "iconText1": "Porcelain",
+    "srcimg2": "/images/icon_m_s.png",
+    "iconText2": "Mur et Sol",
+    "srcimg3": "/images/icon_rectifie.png",
+    "iconText3": "Rectifié",
+    "date_entree_fichier_json": "2024-06-05"
+}
+
+
+
+
+
+
+
+
+
+
+
+
 ]
