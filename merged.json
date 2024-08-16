@@ -82,6 +82,59 @@
     },
 
 
+
+
+    {
+        "ref": "799",
+        "fournisseur": "ARPACERAMICHE",
+        "article": "REUSED_COTTO_45X90cm",
+        "texture": "",
+        "dimension": "45X90",
+        "prix": "",
+        "promotion": "140 DHS",
+        "srcImg": "/images/REUSED_COTTO_45X90.jpg",
+        "stock": "337 m²",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+         "srcimg2": "/images/icon_m_s.png",
+        "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+
+
+
+    {
+        "ref": "800",
+        "fournisseur": "ATCERAM",
+        "article": "KARAM_15X90cm",
+        "texture": "",
+        "dimension": "15X90",
+        "prix": "",
+        "promotion": "150 DHS",
+        "srcImg": "/images/KARAM_15X90.PNG",
+        "stock": "252 m²",
+        "srcimg1": "/images/icon_pl.png",
+        "iconText1": "Porcelain",
+         "srcimg2": "/images/icon_m_s.png",
+        "iconText2": "Mur et Sol",
+        "srcimg3": "/images/icon_rectifie.png",
+        "iconText3": "Rectifié",
+        "date_entree_fichier_json": "2024-06-05"
+    },
+
+
+
+
+
+
+
+
+
+
+
     {
         "ref":"62",
         "fournisseur": "VITACER",
